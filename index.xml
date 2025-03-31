@@ -471,6 +471,502 @@ $$&lt;/p&gt;</description>
 &lt;/div&gt;</description>
         </item>
         <item>
+        <title></title>
+        <link>https://HIT-wjy.github.io/p/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://HIT-wjy.github.io/p/</guid>
+        <description>&lt;h1 id=&#34;1java基础语法&#34;&gt;1.Java基础语法
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;服务器端的软件开发，做数据分析的称之为后端&lt;/li&gt;
+&lt;li&gt;网页，客户端的称为前端&lt;/li&gt;
+&lt;li&gt;全栈工程师&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;javase&#34;&gt;JavaSE
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Java的核心和基础&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;javaee&#34;&gt;JavaEE
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;进阶版&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;总结&#34;&gt;总结
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250303153216388.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250303153216388&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;2搭建java开发环境&#34;&gt;2.搭建Java开发环境
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Java的产品叫JDK（Java development kit）Java开发者工具包，必须安装JDK才能使用Java&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LTS：long-term support 长期支持版&lt;/strong&gt;      JDK 8,11,17,21&lt;/li&gt;
+&lt;li&gt;在官网下载     &lt;a class=&#34;link&#34; href=&#34;https://www.oracle.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.oracle.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;安装路径不要有中文和空格&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;java-和-javac&#34;&gt;Java 和 Javac
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;java 是执行工具，Javac是编译工具&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Java程序是高级语言，计算机底层是硬件不能识别这些语言，必须先通过javac编译工具进行编译，然后再通过java执行工具执行才可以驱动机器干活&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;总结-1&#34;&gt;总结
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250303154935631.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250303154935631&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;3cmd的使用&#34;&gt;3.cmd的使用
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;CMD就是在windows中。利用&lt;strong&gt;命令行&lt;/strong&gt;的方式操纵计算机。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;打开cmd&#34;&gt;打开CMD
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;使用win+r&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;输入cmd&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;默认users之下&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;使用win+e可以打开我的电脑&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;cmd的常见命令&#34;&gt;CMD的常见命令
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;盘符名称加冒号&lt;/strong&gt;。可以切换盘符&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;dir&lt;/strong&gt;     。查看当前路径下的内容（包括隐藏文件夹）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;cd+目录&lt;/strong&gt;  。 进入单级目录      如果会面的目录名太长，可以使用tab进行关联&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;cd..&lt;/strong&gt;   。   回退到&lt;strong&gt;上一级&lt;/strong&gt;目录&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;cd 目录1\目录2&lt;/strong&gt; 。 进入多级目录&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;em&gt;cd *&lt;/em&gt;  。回退到&lt;/em&gt;&lt;em&gt;盘符&lt;/em&gt;*目录&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;cls&lt;/strong&gt; 。 清屏&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;exit&lt;/strong&gt;。 退出命令行&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;使用cmd打开qq&#34;&gt;使用CMD打开QQ
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;该如何方便的打开经常打开的软件呢？如何在任意的目录下面输入qq.exe都能打开qq&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;只要把qq的路径记录在电脑的某个地方&lt;/strong&gt; &amp;mdash;&amp;mdash;&amp;gt;&lt;strong&gt;环境变量&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;这样就会现在当前路径找，找不到就去环境变量里去找&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如何操作呢？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;我的电脑&amp;mdash;-属性&amp;mdash;高级系统设置&amp;mdash;-高级&amp;mdash;-环境变量&amp;mdash;&amp;ndash;系统变量&amp;ndash;PATH&amp;mdash;-编辑&amp;mdash;-新建&amp;mdash;-qq.exe所在的完整路径加入&amp;mdash;&amp;ndash;一直确定&lt;/strong&gt;。将qq的路径记录在PATH中，这样找不到的时候就会在环境变量中挨个找&lt;/li&gt;
+&lt;li&gt;注意！需要重新打开一个cmd窗口，用原先的窗口是不行的&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;**环境变量！！！！**我们想在任意的目录都可以打开指定的软件，就可以把软件的路径配置到环境变量中。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;4开发第一个程序helloworld&#34;&gt;4.开发第一个程序HelloWorld
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;编写代码&amp;ndash;&amp;gt;编译代码&amp;ndash;&amp;gt;运行代码&lt;/li&gt;
+&lt;li&gt;代码文件全英文，首字母大写，满足驼峰模式，源代码文件的后缀必须是   .java&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;编写代码&#34;&gt;编写代码
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;先照着抄&lt;/li&gt;
+&lt;li&gt;代码文件名必须与代码里所谓的类名称一致&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;编译代码&#34;&gt;编译代码
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;使用javac命令进行编译，编译通过会生成hello.class文件&lt;/li&gt;
+&lt;li&gt;使用java命令进行执行，&lt;strong&gt;注意不是 java hello.class  而是直接java hello&lt;/strong&gt;    这是规定&lt;/li&gt;
+&lt;li&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250303161920325.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250303161920325&#34;
+	
+	
+&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;总结-2&#34;&gt;总结
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250303162240705.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250303162240705&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;5程序的原理&#34;&gt;5.程序的原理
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250304215401902.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250304215401902&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;6jdk的组成&#34;&gt;6.JDK的组成
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;JVM（Java Virtual Machine）：Java虚拟机，真正运行Java程序的地方&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;核心类库：Java自己写好的程序，比如System.out.println&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;JRE(Java Runtime Environment)：Java的运行环境   上面两个加起来&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250304215917722.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250304215917722&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;javac 编译代码，java运行代码，把class文件送到JJVM中，运行的时候可能会调用核心类库&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;7java的跨平台特性&#34;&gt;7.Java的跨平台特性
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250304220237149.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250304220237149&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;跨平台：可以轻松移植到其他系统&lt;/li&gt;
+&lt;li&gt;Java跨平台：&lt;strong&gt;一次编译，处处可用&lt;/strong&gt;     Java为各种平台都提供了对应的JVM虚拟机，程序再虚拟机里运行&lt;/li&gt;
+&lt;li&gt;好处：开发效率高，成本低&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;8path环境变量&#34;&gt;8.PATH环境变量
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Path环境变量可用于记住程序路径&lt;/strong&gt;，以方便再命令行窗口的任意目录下直接启动该程序.&lt;/li&gt;
+&lt;li&gt;用户环境变量只对当前用户生效，系统环境变量对所有用户生效&lt;/li&gt;
+&lt;li&gt;加入环境变量，当从当前文件夹找不到时，会去环境变量中去找&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250304221038365.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250304221038365&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;较新的JDK安装的时候，会自动配置javac，java程序的环境变量&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;注意：老版本的JDK在安装时不会自动配置Path环境变量，此时，需要自己配置Path环境变量&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;建议为JDK再配置JAVA_HOME环境变量&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;JAVA_HOME：用于告诉操作系统JDK安装在了哪个位置（将来其他技术要通过这个环境变量找JDK&lt;/li&gt;
+&lt;li&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250304222204600.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250304222204600&#34;
+	
+	
+&gt;&lt;/li&gt;
+&lt;li&gt;JAVA的家不带Bin&lt;/li&gt;
+&lt;li&gt;为了方便维护，可以讲Path中的路径改为**%JAVA_HOME%**。这样以后改JAVA_HOME，path中也会自动改&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250304222356008.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250304222505803&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;9idea的安装&#34;&gt;9.IDEA的安装
+&lt;/h1&gt;&lt;h2 id=&#34;ide&#34;&gt;IDE
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;IDE（Intergrated Development Environment：集成开发环境）&lt;/li&gt;
+&lt;li&gt;是指集成了诸如：JDK，代码编写窗，编译，执行，智能提示等多种功能的开发工具。&lt;/li&gt;
+&lt;li&gt;写代码有提示，可以一键编译执行&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;intellij-idea&#34;&gt;IntelliJ IDEA
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250305142206110.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250305142206110&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;卸载的时候一定要勾选这两个&lt;/li&gt;
+&lt;li&gt;安装的时候一定要去除空格&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;10idea管理java程序的总体结构&#34;&gt;10.IDEA管理java程序的总体结构
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250305151949005.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250305151949005&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250305152400314.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250305152400314&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;使用idea开发第一个工程&#34;&gt;使用idea开发第一个工程
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;创建工程（一定要选空项目，Empty Project）&lt;/li&gt;
+&lt;li&gt;创建模块（Module）&lt;/li&gt;
+&lt;li&gt;创建包（Package) 使用公司域名的倒写加技术名称&lt;/li&gt;
+&lt;li&gt;创建类（class） 类不用带后缀&lt;/li&gt;
+&lt;li&gt;编写代码并启动&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;总结-3&#34;&gt;总结
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250305153733257.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250305153733257&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;11idea的高效使用&#34;&gt;11.IDEA的高效使用
+&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;调节字体背景色&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250305154253301.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250305154253301&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;常用快捷键&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250305154340734.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250305154340734&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;扩展操作&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;打开工程（使用File中的open，有黑点代表是工程）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;关闭工程（可直接叉掉，也可以直接File中选择）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;删除类文件&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;修改类名称&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;修改模块（基本都是同时重命名目录和模块名字）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;导入模块&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;要先将人家的模块贴到当前工程下面（领回家），再通过“文件”中的从已存在资源下导入，再从当前文件夹下面导入（领结婚证）&lt;/li&gt;
+&lt;li&gt;另一种，新建个模块，再将人家的代码复制进来。更方便一些。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;删除模块（先移除，再删除）&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;12java基础语法详解&#34;&gt;12.Java基础语法详解
+&lt;/h1&gt;&lt;h2 id=&#34;注释&#34;&gt;注释
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;单行，多行，文档注释&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;文档注释&lt;/strong&gt;是/**  一般用在类上，方法上，就是很专业的。里面的内容可以自动提取到程序说明书中去。&lt;/li&gt;
+&lt;li&gt;Java进行编译后生成class文件，其中会把注释全部去掉&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250305161922040.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250305161922040&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;生成程序说明书   javadoc -d api（文件夹名字） .\CommentDemo.java&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250305162635891.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250305162635891&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;字面量&#34;&gt;字面量
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;告诉程序员：数据在程序中的书写格式&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250305162715777.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250305162715777&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250305163528214.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250305163528214&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;变量&#34;&gt;变量
+&lt;/h2&gt;&lt;h3 id=&#34;变量的定义和使用&#34;&gt;变量的定义和使用
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;变量用来&lt;strong&gt;记住&lt;/strong&gt;程序要处理的&lt;strong&gt;数据&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;数据类型  变量名称  = 数据;      int age =18;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250305163704591.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250305163704591&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;使用变量记住数据再处理，程序的维护性更好更灵活&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;变量的执行原理&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;就是内存中的一块区域，用来存储数据&lt;/li&gt;
+&lt;li&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250305164236838.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250305164236838&#34;
+	
+	
+&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;变量的特点&#34;&gt;变量的特点
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;变量里的数据可替换&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;使用变量的注意事项&#34;&gt;使用变量的注意事项
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250305165537180.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250305165537180&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;变量&lt;strong&gt;从定义开始到}结束有效&lt;/strong&gt;。同一个范围内，不能定义两个名称一样的变量、&lt;/li&gt;
+&lt;li&gt;变量定义时可以不赋值，但是使用时必须有值&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;关键字与标识符&#34;&gt;关键字与标识符
+&lt;/h2&gt;&lt;h3 id=&#34;关键字&#34;&gt;关键字
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Java语言自己用到的一些词，有特殊作用的，我们称之为关键字，如：public,class,int ,double&lt;/li&gt;
+&lt;li&gt;我们不能用来作为：类名，变量名&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;标识符&#34;&gt;标识符
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;标识符就是名字（如类名，变量名&amp;hellip;..都是标识符）&lt;/li&gt;
+&lt;li&gt;基本要求：一般由数字，字母，下划线等组成，不要用中文&lt;/li&gt;
+&lt;li&gt;强制要求：不能以数字开头，不能是关键字，不能有特殊字符（%。&amp;amp;。#）&lt;/li&gt;
+&lt;li&gt;建议
+&lt;ul&gt;
+&lt;li&gt;变量名：首字母小写的驼峰模式  studyNumber&lt;/li&gt;
+&lt;li&gt;类名：首字母大写的驼峰模式   HelloWorld&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
         <title>关于</title>
         <link>https://HIT-wjy.github.io/%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

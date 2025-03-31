@@ -1,0 +1,1018 @@
+<!DOCTYPE html>
+<html lang="zh-cn" dir="ltr">
+    <head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="1.Java基础语法 服务器端的软件开发，做数据分析的称之为后端 网页，客户端的称为前端 全栈工程师 JavaSE Java的核心和基础 JavaEE 进阶版 总结 2.搭建Ja">
+<title></title>
+
+<link rel='canonical' href='https://HIT-wjy.github.io/p/'>
+
+<link rel="stylesheet" href="/scss/style.min.0304c6baf04e01a8fe70693791cb744d56a3578a3120a8796cefc66825aa39c7.css"><meta property='og:title' content="">
+<meta property='og:description' content="1.Java基础语法 服务器端的软件开发，做数据分析的称之为后端 网页，客户端的称为前端 全栈工程师 JavaSE Java的核心和基础 JavaEE 进阶版 总结 2.搭建Ja">
+<meta property='og:url' content='https://HIT-wjy.github.io/p/'>
+<meta property='og:site_name' content='Mr.Xiaoxiao'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' />
+<meta name="twitter:title" content="">
+<meta name="twitter:description" content="1.Java基础语法 服务器端的软件开发，做数据分析的称之为后端 网页，客户端的称为前端 全栈工程师 JavaSE Java的核心和基础 JavaEE 进阶版 总结 2.搭建Ja">
+    <link rel="shortcut icon" href="/favicon.ico" />
+
+  
+
+
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="切换菜单">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/avatar_hu5355208144659422448.png" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+                    <span class="emoji">😏</span>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">Mr.Xiaoxiao</a></h1>
+            <h2 class="site-description">时间不在于你拥有多少，而在于你怎样使用~</h2>
+        </div>
+    </header><ol class="menu-social">
+            
+                <li>
+                    <a 
+                        href='https://github.com/HIT-wjy?tab=repositories'
+                        target="_blank"
+                        title="GitHub"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>主页</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/%E5%85%B3%E4%BA%8E/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                
+                <span>关于</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>归档</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/search/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>搜索</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-link" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5" />
+  <path d="M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5" />
+</svg>
+
+
+
+                
+                <span>友情链接</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+                    
+                        <li id="i18n-switch">  
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-language" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M4 5h7" />
+  <path d="M9 3v2c0 4.418 -2.239 8 -5 8" />
+  <path d="M5 9c-.003 2.144 2.952 3.908 6.7 4" />
+  <path d="M12 20l4 -9l4 9" />
+  <path d="M19.1 18h-6.2" />
+</svg>
+
+
+
+                            <select name="language" title="language" onchange="window.location.href = this.selectedOptions[0].value">
+                                
+                                    <option value="https://HIT-wjy.github.io/en/" >English</option>
+                                
+                                    <option value="https://HIT-wjy.github.io/" selected>简体中文</option>
+                                
+                                    <option value="https://HIT-wjy.github.io/ar/" >عربي</option>
+                                
+                            </select>
+                        </li>
+                    
+                
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>暗色模式</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+    <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">目录</h2>
+        
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ol>
+    <li><a href="#javase">JavaSE</a></li>
+    <li><a href="#javaee">JavaEE</a></li>
+    <li><a href="#总结">总结</a></li>
+  </ol>
+
+  <ol>
+    <li><a href="#java-和-javac">Java 和 Javac</a></li>
+    <li><a href="#总结-1">总结</a></li>
+  </ol>
+
+  <ol>
+    <li><a href="#打开cmd">打开CMD</a></li>
+    <li><a href="#cmd的常见命令">CMD的常见命令</a></li>
+    <li><a href="#使用cmd打开qq">使用CMD打开QQ</a></li>
+  </ol>
+
+  <ol>
+    <li><a href="#编写代码">编写代码</a></li>
+    <li><a href="#编译代码">编译代码</a></li>
+    <li><a href="#总结-2">总结</a></li>
+  </ol>
+
+  <ol>
+    <li><a href="#ide">IDE</a></li>
+    <li><a href="#intellij-idea">IntelliJ IDEA</a></li>
+  </ol>
+
+  <ol>
+    <li><a href="#使用idea开发第一个工程">使用idea开发第一个工程</a></li>
+    <li><a href="#总结-3">总结</a></li>
+  </ol>
+
+  <ol>
+    <li><a href="#注释">注释</a></li>
+    <li><a href="#字面量">字面量</a></li>
+    <li><a href="#变量">变量</a>
+      <ol>
+        <li><a href="#变量的定义和使用">变量的定义和使用</a></li>
+        <li><a href="#变量的特点">变量的特点</a></li>
+        <li><a href="#使用变量的注意事项">使用变量的注意事项</a></li>
+      </ol>
+    </li>
+    <li><a href="#关键字与标识符">关键字与标识符</a>
+      <ol>
+        <li><a href="#关键字">关键字</a></li>
+        <li><a href="#标识符">标识符</a></li>
+      </ol>
+    </li>
+  </ol>
+</nav>
+        </div>
+    </section>
+
+            
+        
+    </aside>
+
+
+            <main class="main full-width">
+    <article class="main-article">
+    <header class="article-header">
+
+    <div class="article-details">
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/p/"></a>
+        </h2>
+    
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    阅读时长: 6 分钟
+                </time>
+            </div>
+        
+    </footer>
+    
+
+    
+</div>
+
+</header>
+
+    <section class="article-content">
+    
+    
+    <h1 id="1java基础语法">1.Java基础语法
+</h1><ul>
+<li>服务器端的软件开发，做数据分析的称之为后端</li>
+<li>网页，客户端的称为前端</li>
+<li>全栈工程师</li>
+</ul>
+<h2 id="javase">JavaSE
+</h2><ul>
+<li>Java的核心和基础</li>
+</ul>
+<h2 id="javaee">JavaEE
+</h2><ul>
+<li>进阶版</li>
+</ul>
+<h2 id="总结">总结
+</h2><p><img src="/.%5cimage-20250303153216388.png"
+	
+	
+	
+	loading="lazy"
+	
+		alt="image-20250303153216388"
+	
+	
+></p>
+<h1 id="2搭建java开发环境">2.搭建Java开发环境
+</h1><ul>
+<li>Java的产品叫JDK（Java development kit）Java开发者工具包，必须安装JDK才能使用Java</li>
+<li><strong>LTS：long-term support 长期支持版</strong>      JDK 8,11,17,21</li>
+<li>在官网下载     <a class="link" href="https://www.oracle.com"  target="_blank" rel="noopener"
+    >https://www.oracle.com</a></li>
+<li>安装路径不要有中文和空格</li>
+</ul>
+<h2 id="java-和-javac">Java 和 Javac
+</h2><ul>
+<li><strong>java 是执行工具，Javac是编译工具</strong></li>
+<li>Java程序是高级语言，计算机底层是硬件不能识别这些语言，必须先通过javac编译工具进行编译，然后再通过java执行工具执行才可以驱动机器干活</li>
+</ul>
+<h2 id="总结-1">总结
+</h2><p><img src="/.%5cimage-20250303154935631.png"
+	
+	
+	
+	loading="lazy"
+	
+		alt="image-20250303154935631"
+	
+	
+></p>
+<h1 id="3cmd的使用">3.cmd的使用
+</h1><ul>
+<li>CMD就是在windows中。利用<strong>命令行</strong>的方式操纵计算机。</li>
+</ul>
+<h2 id="打开cmd">打开CMD
+</h2><ul>
+<li>
+<p>使用win+r</p>
+</li>
+<li>
+<p>输入cmd</p>
+</li>
+<li>
+<p>默认users之下</p>
+</li>
+<li>
+<p>使用win+e可以打开我的电脑</p>
+</li>
+</ul>
+<h2 id="cmd的常见命令">CMD的常见命令
+</h2><ul>
+<li><strong>盘符名称加冒号</strong>。可以切换盘符</li>
+<li><strong>dir</strong>     。查看当前路径下的内容（包括隐藏文件夹）</li>
+<li><strong>cd+目录</strong>  。 进入单级目录      如果会面的目录名太长，可以使用tab进行关联</li>
+<li><strong>cd..</strong>   。   回退到<strong>上一级</strong>目录</li>
+<li><strong>cd 目录1\目录2</strong> 。 进入多级目录</li>
+<li><em><em>cd *</em>  。回退到</em><em>盘符</em>*目录</li>
+<li><strong>cls</strong> 。 清屏</li>
+<li><strong>exit</strong>。 退出命令行</li>
+</ul>
+<h2 id="使用cmd打开qq">使用CMD打开QQ
+</h2><ul>
+<li>
+<p>该如何方便的打开经常打开的软件呢？如何在任意的目录下面输入qq.exe都能打开qq</p>
+<ul>
+<li><strong>只要把qq的路径记录在电脑的某个地方</strong> &mdash;&mdash;&gt;<strong>环境变量</strong>。</li>
+<li>这样就会现在当前路径找，找不到就去环境变量里去找</li>
+</ul>
+</li>
+<li>
+<p>如何操作呢？</p>
+<ul>
+<li><strong>我的电脑&mdash;-属性&mdash;高级系统设置&mdash;-高级&mdash;-环境变量&mdash;&ndash;系统变量&ndash;PATH&mdash;-编辑&mdash;-新建&mdash;-qq.exe所在的完整路径加入&mdash;&ndash;一直确定</strong>。将qq的路径记录在PATH中，这样找不到的时候就会在环境变量中挨个找</li>
+<li>注意！需要重新打开一个cmd窗口，用原先的窗口是不行的</li>
+</ul>
+</li>
+<li>
+<p>**环境变量！！！！**我们想在任意的目录都可以打开指定的软件，就可以把软件的路径配置到环境变量中。</p>
+</li>
+</ul>
+<h1 id="4开发第一个程序helloworld">4.开发第一个程序HelloWorld
+</h1><ul>
+<li>编写代码&ndash;&gt;编译代码&ndash;&gt;运行代码</li>
+<li>代码文件全英文，首字母大写，满足驼峰模式，源代码文件的后缀必须是   .java</li>
+</ul>
+<h2 id="编写代码">编写代码
+</h2><ul>
+<li>先照着抄</li>
+<li>代码文件名必须与代码里所谓的类名称一致</li>
+</ul>
+<h2 id="编译代码">编译代码
+</h2><ul>
+<li>使用javac命令进行编译，编译通过会生成hello.class文件</li>
+<li>使用java命令进行执行，<strong>注意不是 java hello.class  而是直接java hello</strong>    这是规定</li>
+<li><img src="/.%5cimage-20250303161920325.png"
+	
+	
+	
+	loading="lazy"
+	
+		alt="image-20250303161920325"
+	
+	
+></li>
+</ul>
+<h2 id="总结-2">总结
+</h2><p><img src="/.%5cimage-20250303162240705.png"
+	
+	
+	
+	loading="lazy"
+	
+		alt="image-20250303162240705"
+	
+	
+></p>
+<h1 id="5程序的原理">5.程序的原理
+</h1><p><img src="/.%5cimage-20250304215401902.png"
+	
+	
+	
+	loading="lazy"
+	
+		alt="image-20250304215401902"
+	
+	
+></p>
+<h1 id="6jdk的组成">6.JDK的组成
+</h1><ul>
+<li>
+<p>JVM（Java Virtual Machine）：Java虚拟机，真正运行Java程序的地方</p>
+</li>
+<li>
+<p>核心类库：Java自己写好的程序，比如System.out.println</p>
+</li>
+<li>
+<p>JRE(Java Runtime Environment)：Java的运行环境   上面两个加起来</p>
+</li>
+</ul>
+<p><img src="/.%5cimage-20250304215917722.png"
+	
+	
+	
+	loading="lazy"
+	
+		alt="image-20250304215917722"
+	
+	
+></p>
+<ul>
+<li>javac 编译代码，java运行代码，把class文件送到JJVM中，运行的时候可能会调用核心类库</li>
+</ul>
+<h1 id="7java的跨平台特性">7.Java的跨平台特性
+</h1><p><img src="/.%5cimage-20250304220237149.png"
+	
+	
+	
+	loading="lazy"
+	
+		alt="image-20250304220237149"
+	
+	
+></p>
+<ul>
+<li>跨平台：可以轻松移植到其他系统</li>
+<li>Java跨平台：<strong>一次编译，处处可用</strong>     Java为各种平台都提供了对应的JVM虚拟机，程序再虚拟机里运行</li>
+<li>好处：开发效率高，成本低</li>
+</ul>
+<h1 id="8path环境变量">8.PATH环境变量
+</h1><ul>
+<li><strong>Path环境变量可用于记住程序路径</strong>，以方便再命令行窗口的任意目录下直接启动该程序.</li>
+<li>用户环境变量只对当前用户生效，系统环境变量对所有用户生效</li>
+<li>加入环境变量，当从当前文件夹找不到时，会去环境变量中去找</li>
+</ul>
+<p><img src="/.%5cimage-20250304221038365.png"
+	
+	
+	
+	loading="lazy"
+	
+		alt="image-20250304221038365"
+	
+	
+></p>
+<ul>
+<li>
+<p>较新的JDK安装的时候，会自动配置javac，java程序的环境变量</p>
+</li>
+<li>
+<p>注意：老版本的JDK在安装时不会自动配置Path环境变量，此时，需要自己配置Path环境变量</p>
+</li>
+<li>
+<p>建议为JDK再配置JAVA_HOME环境变量</p>
+<ul>
+<li>JAVA_HOME：用于告诉操作系统JDK安装在了哪个位置（将来其他技术要通过这个环境变量找JDK</li>
+<li><img src="/.%5cimage-20250304222204600.png"
+	
+	
+	
+	loading="lazy"
+	
+		alt="image-20250304222204600"
+	
+	
+></li>
+<li>JAVA的家不带Bin</li>
+<li>为了方便维护，可以讲Path中的路径改为**%JAVA_HOME%**。这样以后改JAVA_HOME，path中也会自动改</li>
+</ul>
+<p><img src="/.%5cimage-20250304222356008.png"
+	
+	
+	
+	loading="lazy"
+	
+		alt="image-20250304222505803"
+	
+	
+></p>
+</li>
+</ul>
+<h1 id="9idea的安装">9.IDEA的安装
+</h1><h2 id="ide">IDE
+</h2><ul>
+<li>IDE（Intergrated Development Environment：集成开发环境）</li>
+<li>是指集成了诸如：JDK，代码编写窗，编译，执行，智能提示等多种功能的开发工具。</li>
+<li>写代码有提示，可以一键编译执行</li>
+</ul>
+<h2 id="intellij-idea">IntelliJ IDEA
+</h2><p><img src="/.%5cimage-20250305142206110.png"
+	
+	
+	
+	loading="lazy"
+	
+		alt="image-20250305142206110"
+	
+	
+></p>
+<ul>
+<li>卸载的时候一定要勾选这两个</li>
+<li>安装的时候一定要去除空格</li>
+</ul>
+<h1 id="10idea管理java程序的总体结构">10.IDEA管理java程序的总体结构
+</h1><p><img src="/.%5cimage-20250305151949005.png"
+	
+	
+	
+	loading="lazy"
+	
+		alt="image-20250305151949005"
+	
+	
+></p>
+<p><img src="/.%5cimage-20250305152400314.png"
+	
+	
+	
+	loading="lazy"
+	
+		alt="image-20250305152400314"
+	
+	
+></p>
+<h2 id="使用idea开发第一个工程">使用idea开发第一个工程
+</h2><ol>
+<li>创建工程（一定要选空项目，Empty Project）</li>
+<li>创建模块（Module）</li>
+<li>创建包（Package) 使用公司域名的倒写加技术名称</li>
+<li>创建类（class） 类不用带后缀</li>
+<li>编写代码并启动</li>
+</ol>
+<h2 id="总结-3">总结
+</h2><p><img src="/.%5cimage-20250305153733257.png"
+	
+	
+	
+	loading="lazy"
+	
+		alt="image-20250305153733257"
+	
+	
+></p>
+<h1 id="11idea的高效使用">11.IDEA的高效使用
+</h1><ol>
+<li>
+<p>调节字体背景色</p>
+<p><img src="/.%5cimage-20250305154253301.png"
+	
+	
+	
+	loading="lazy"
+	
+		alt="image-20250305154253301"
+	
+	
+></p>
+</li>
+<li>
+<p>常用快捷键</p>
+</li>
+</ol>
+<p><img src="/.%5cimage-20250305154340734.png"
+	
+	
+	
+	loading="lazy"
+	
+		alt="image-20250305154340734"
+	
+	
+></p>
+<ol start="3">
+<li>扩展操作</li>
+</ol>
+<ul>
+<li>
+<p>打开工程（使用File中的open，有黑点代表是工程）</p>
+</li>
+<li>
+<p>关闭工程（可直接叉掉，也可以直接File中选择）</p>
+</li>
+<li>
+<p>删除类文件</p>
+</li>
+<li>
+<p>修改类名称</p>
+</li>
+<li>
+<p>修改模块（基本都是同时重命名目录和模块名字）</p>
+</li>
+<li>
+<p><strong>导入模块</strong></p>
+<ul>
+<li>要先将人家的模块贴到当前工程下面（领回家），再通过“文件”中的从已存在资源下导入，再从当前文件夹下面导入（领结婚证）</li>
+<li>另一种，新建个模块，再将人家的代码复制进来。更方便一些。</li>
+</ul>
+</li>
+<li>
+<p>删除模块（先移除，再删除）</p>
+</li>
+</ul>
+<h1 id="12java基础语法详解">12.Java基础语法详解
+</h1><h2 id="注释">注释
+</h2><ul>
+<li>单行，多行，文档注释</li>
+<li><strong>文档注释</strong>是/**  一般用在类上，方法上，就是很专业的。里面的内容可以自动提取到程序说明书中去。</li>
+<li>Java进行编译后生成class文件，其中会把注释全部去掉</li>
+</ul>
+<p><img src="/.%5cimage-20250305161922040.png"
+	
+	
+	
+	loading="lazy"
+	
+		alt="image-20250305161922040"
+	
+	
+></p>
+<ul>
+<li>生成程序说明书   javadoc -d api（文件夹名字） .\CommentDemo.java</li>
+</ul>
+<p><img src="/.%5cimage-20250305162635891.png"
+	
+	
+	
+	loading="lazy"
+	
+		alt="image-20250305162635891"
+	
+	
+></p>
+<h2 id="字面量">字面量
+</h2><ul>
+<li>告诉程序员：数据在程序中的书写格式</li>
+</ul>
+<p><img src="/.%5cimage-20250305162715777.png"
+	
+	
+	
+	loading="lazy"
+	
+		alt="image-20250305162715777"
+	
+	
+></p>
+<p><img src="/.%5cimage-20250305163528214.png"
+	
+	
+	
+	loading="lazy"
+	
+		alt="image-20250305163528214"
+	
+	
+></p>
+<h2 id="变量">变量
+</h2><h3 id="变量的定义和使用">变量的定义和使用
+</h3><ul>
+<li>变量用来<strong>记住</strong>程序要处理的<strong>数据</strong></li>
+<li>数据类型  变量名称  = 数据;      int age =18;</li>
+</ul>
+<p><img src="/.%5cimage-20250305163704591.png"
+	
+	
+	
+	loading="lazy"
+	
+		alt="image-20250305163704591"
+	
+	
+></p>
+<ul>
+<li>
+<p>使用变量记住数据再处理，程序的维护性更好更灵活</p>
+</li>
+<li>
+<p>变量的执行原理</p>
+<ul>
+<li>就是内存中的一块区域，用来存储数据</li>
+<li><img src="/.%5cimage-20250305164236838.png"
+	
+	
+	
+	loading="lazy"
+	
+		alt="image-20250305164236838"
+	
+	
+></li>
+</ul>
+</li>
+</ul>
+<h3 id="变量的特点">变量的特点
+</h3><ul>
+<li>变量里的数据可替换</li>
+</ul>
+<h3 id="使用变量的注意事项">使用变量的注意事项
+</h3><p><img src="/.%5cimage-20250305165537180.png"
+	
+	
+	
+	loading="lazy"
+	
+		alt="image-20250305165537180"
+	
+	
+></p>
+<ul>
+<li>变量<strong>从定义开始到}结束有效</strong>。同一个范围内，不能定义两个名称一样的变量、</li>
+<li>变量定义时可以不赋值，但是使用时必须有值</li>
+</ul>
+<h2 id="关键字与标识符">关键字与标识符
+</h2><h3 id="关键字">关键字
+</h3><ul>
+<li>Java语言自己用到的一些词，有特殊作用的，我们称之为关键字，如：public,class,int ,double</li>
+<li>我们不能用来作为：类名，变量名</li>
+</ul>
+<h3 id="标识符">标识符
+</h3><ul>
+<li>标识符就是名字（如类名，变量名&hellip;..都是标识符）</li>
+<li>基本要求：一般由数字，字母，下划线等组成，不要用中文</li>
+<li>强制要求：不能以数字开头，不能是关键字，不能有特殊字符（%。&amp;。#）</li>
+<li>建议
+<ul>
+<li>变量名：首字母小写的驼峰模式  studyNumber</li>
+<li>类名：首字母大写的驼峰模式   HelloWorld</li>
+</ul>
+</li>
+</ul>
+
+</section>
+
+
+    <footer class="article-footer">
+    
+
+    
+    <section class="article-copyright">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-copyright" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <path d="M14.5 9a3.5 4 0 1 0 0 6" />
+</svg>
+
+
+
+        <span>Licensed under CC BY-NC-SA 4.0</span>
+    </section>
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+     
+    
+        
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+        2025 Xiaoxiao
+    </section>
+    
+    <section class="powerby">
+        使用 <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> 构建 <br />
+        主题 <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.26.0">Stack</a></b> 由 <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a> 设计
+    </section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+
+            </main>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+    </body>
+</html>
