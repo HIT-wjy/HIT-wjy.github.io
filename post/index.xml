@@ -7,468 +7,641 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Xiaoxiao</copyright>
-        <lastBuildDate>Mon, 31 Mar 2025 21:33:34 +0800</lastBuildDate><atom:link href="https://HIT-wjy.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>New1</title>
-        <link>https://HIT-wjy.github.io/p/new1/</link>
-        <pubDate>Mon, 31 Mar 2025 21:33:34 +0800</pubDate>
+        <lastBuildDate>Mon, 31 Mar 2025 23:40:21 +0800</lastBuildDate><atom:link href="https://HIT-wjy.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>day03-程序流程控制</title>
+        <link>https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/</link>
+        <pubDate>Mon, 31 Mar 2025 23:40:21 +0800</pubDate>
         
-        <guid>https://HIT-wjy.github.io/p/new1/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>New</title>
-        <link>https://HIT-wjy.github.io/p/new/</link>
-        <pubDate>Mon, 31 Mar 2025 20:49:17 +0800</pubDate>
-        
-        <guid>https://HIT-wjy.github.io/p/new/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Newnewnew</title>
-        <link>https://HIT-wjy.github.io/p/newnewnew/</link>
-        <pubDate>Mon, 31 Mar 2025 20:21:40 +0800</pubDate>
-        
-        <guid>https://HIT-wjy.github.io/p/newnewnew/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>MyFirstBlog</title>
-        <link>https://HIT-wjy.github.io/p/myfirstblog/</link>
-        <pubDate>Mon, 31 Mar 2025 16:51:21 +0800</pubDate>
-        
-        <guid>https://HIT-wjy.github.io/p/myfirstblog/</guid>
-        <description>&lt;h3 id=&#34;hello-world&#34;&gt;Hello World
-&lt;/h3&gt;</description>
-        </item>
-        <item>
-        <title>Chinese Test</title>
-        <link>https://HIT-wjy.github.io/p/test-chinese/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://HIT-wjy.github.io/p/test-chinese/</guid>
-        <description>&lt;img src="https://HIT-wjy.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Chinese Test" /&gt;&lt;h2 id=&#34;正文测试&#34;&gt;正文测试
-&lt;/h2&gt;&lt;p&gt;而这些并不是完全重要，更加重要的问题是， 带着这些问题，我们来审视一下学生会退会。 既然如何， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 我们不得不面对一个非常尴尬的事实，那就是， 可是，即使是这样，学生会退会的出现仍然代表了一定的意义。 学生会退会，发生了会如何，不发生又会如何。 经过上述讨论， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 学生会退会，到底应该如何实现。 这样看来， 在这种困难的抉择下，本人思来想去，寝食难安。 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 就我个人来说，学生会退会对我的意义，不能不说非常重大。 莎士比亚曾经提到过，人的一生是短的，但如果卑劣地过这一生，就太长了。这似乎解答了我的疑惑。 莫扎特说过一句富有哲理的话，谁和我一样用功，谁就会和我一样成功。这启发了我， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 学生会退会，到底应该如何实现。 一般来说， 从这个角度来看， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 在这种困难的抉择下，本人思来想去，寝食难安。 了解清楚学生会退会到底是一种怎么样的存在，是解决一切问题的关键。 一般来说， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 问题的关键究竟为何？ 而这些并不是完全重要，更加重要的问题是。&lt;/p&gt;
-&lt;p&gt;奥斯特洛夫斯基曾经说过，共同的事业，共同的斗争，可以使人们产生忍受一切的力量。　带着这句话，我们还要更加慎重的审视这个问题： 一般来讲，我们都必须务必慎重的考虑考虑。 既然如此， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 带着这些问题，我们来审视一下学生会退会。 我认为， 我认为， 在这种困难的抉择下，本人思来想去，寝食难安。 问题的关键究竟为何？ 每个人都不得不面对这些问题。 在面对这种问题时， 要想清楚，学生会退会，到底是一种怎么样的存在。 我认为， 既然如此， 每个人都不得不面对这些问题。 在面对这种问题时， 那么， 我认为， 学生会退会因何而发生。&lt;/p&gt;
-&lt;h2 id=&#34;引用&#34;&gt;引用
-&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;思念是最暖的忧伤像一双翅膀&lt;br&gt;
-让我停不了飞不远在过往游荡&lt;br&gt;
-不告而别的你 就算为了我着想&lt;br&gt;
-这么沉痛的呵护 我怎么能翱翔&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=3aypp_YlBzI&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;最暖的憂傷 - 田馥甄&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;图片&#34;&gt;图片
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash.jpg&#34;
-	width=&#34;667&#34;
-	height=&#34;1000&#34;
-	srcset=&#34;https://HIT-wjy.github.io/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu13768363498926278726.jpg 480w, https://HIT-wjy.github.io/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu13380208884366868750.jpg 1024w&#34;
+        <guid>https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/</guid>
+        <description>&lt;img src="https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/20220428094128_08db4.jpg" alt="Featured image of post day03-程序流程控制" /&gt;&lt;h1 id=&#34;程序流程控制&#34;&gt;程序流程控制
+&lt;/h1&gt;&lt;h1 id=&#34;1分支结构&#34;&gt;1.分支结构
+&lt;/h1&gt;&lt;h2 id=&#34;if分支结构&#34;&gt;if分支结构
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/image-20250306213253769.png&#34;
+	width=&#34;730&#34;
+	height=&#34;372&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/image-20250306213253769_hu17301254996838885674.png 480w, https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/image-20250306213253769_hu9102048886440825998.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;Photo by Florian Klauer on Unsplash&#34;
+		alt=&#34;image-20250306213253769&#34;
 	
 	
 		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;66&#34;
-		data-flex-basis=&#34;160px&#34;
+		data-flex-grow=&#34;196&#34;
+		data-flex-basis=&#34;470px&#34;
 	
-&gt;  &lt;img src=&#34;https://HIT-wjy.github.io/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;667&#34;
-	srcset=&#34;https://HIT-wjy.github.io/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu1712544344331247820.jpg 480w, https://HIT-wjy.github.io/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu12475395149584884402.jpg 1024w&#34;
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;switch分支结构&#34;&gt;Switch分支结构
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/image-20250306214219634.png&#34;
+	width=&#34;917&#34;
+	height=&#34;415&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/image-20250306214219634_hu5869237220707291555.png 480w, https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/image-20250306214219634_hu16149212542884479908.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;Photo by Luca Bravo on Unsplash&#34;
+		alt=&#34;image-20250306214219634&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;220&#34;
+		data-flex-basis=&#34;530px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;switch的注意事项&#34;&gt;Switch的注意事项
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/image-20250306214733411.png&#34;
+	width=&#34;735&#34;
+	height=&#34;305&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/image-20250306214733411_hu12600728096801614922.png 480w, https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/image-20250306214733411_hu7028770577739459869.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250306214733411&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;240&#34;
+		data-flex-basis=&#34;578px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;表达式类型不支持double,float,long
+&lt;ul&gt;
+&lt;li&gt;计算机运算小数的方案本身就会不精确&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;case给出的值不允许重复且只能是字面量不能是变量&lt;/li&gt;
+&lt;li&gt;不要忘记break，否则会穿透。但是当有相同时的时候，穿透可以帮助简化代码&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;2循环结构&#34;&gt;2.循环结构
+&lt;/h1&gt;&lt;h2 id=&#34;for循环&#34;&gt;for循环
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/image-20250306215535089.png&#34;
+	width=&#34;357&#34;
+	height=&#34;128&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/image-20250306215535089_hu6379094776966869289.png 480w, https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/image-20250306215535089_hu11355388444536831269.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250306215535089&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;278&#34;
+		data-flex-basis=&#34;669px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;案例求水仙花数&#34;&gt;案例：求水仙花数
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/image-20250306220609291.png&#34;
+	width=&#34;1113&#34;
+	height=&#34;287&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/image-20250306220609291_hu9067324254224184735.png 480w, https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/image-20250306220609291_hu9966448317878149654.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250306220609291&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;387&#34;
+		data-flex-basis=&#34;930px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;System.out.println()中的ln是表示换行的意思&lt;/p&gt;
+&lt;h2 id=&#34;while循环&#34;&gt;While循环
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/image-20250306221520596.png&#34;
+	width=&#34;643&#34;
+	height=&#34;334&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/image-20250306221520596_hu9756346670975162721.png 480w, https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/image-20250306221520596_hu2516716713827238019.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250306221520596&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;192&#34;
+		data-flex-basis=&#34;462px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;知道循环几次用for,不知道循环几次用while&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/image-20250306222158557.png&#34;
+	width=&#34;1128&#34;
+	height=&#34;299&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/image-20250306222158557_hu1443296112303168754.png 480w, https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/image-20250306222158557_hu16898192696011520078.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250306222158557&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;377&#34;
+		data-flex-basis=&#34;905px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;do-while循环&#34;&gt;do-while循环
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/image-20250306222254428.png&#34;
+	width=&#34;596&#34;
+	height=&#34;368&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/image-20250306222254428_hu405748869431638344.png 480w, https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/image-20250306222254428_hu16732760526173768321.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250306222254428&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;161&#34;
+		data-flex-basis=&#34;388px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;三种循环的小结&#34;&gt;三种循环的小结
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/image-20250306222512196.png&#34;
+	width=&#34;1417&#34;
+	height=&#34;641&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/image-20250306222512196_hu17865487115366214730.png 480w, https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/image-20250306222512196_hu9376787444528128151.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250306222512196&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;221&#34;
+		data-flex-basis=&#34;530px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;死循环&#34;&gt;死循环
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/image-20250306222720911.png&#34;
+	width=&#34;514&#34;
+	height=&#34;413&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/image-20250306222720911_hu4977762598371489473.png 480w, https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/image-20250306222720911_hu17030670335261111159.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250306222720911&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;124&#34;
+		data-flex-basis=&#34;298px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;循环的嵌套&#34;&gt;循环的嵌套
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;外部循环每循环一次，内部循环会全部执行完一轮&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;跳转关键字&#34;&gt;跳转关键字
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;break:跳出并&lt;strong&gt;结束当前所在循环&lt;/strong&gt;的执行&lt;/li&gt;
+&lt;li&gt;continue:用于&lt;strong&gt;跳出当前循环的当次执行&lt;/strong&gt;，直接进入循环的下一次执行&lt;/li&gt;
+&lt;li&gt;break和continue一定要在循环或者switch中使用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;3-案例技术生成随机数&#34;&gt;3. 案例技术：生成随机数
+&lt;/h1&gt;&lt;h2 id=&#34;random-生成随机数&#34;&gt;Random 生成随机数
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/image-20250307141111958.png&#34;
+	width=&#34;962&#34;
+	height=&#34;443&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/image-20250307141111958_hu1640443787308807885.png 480w, https://HIT-wjy.github.io/p/day03-%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/image-20250307141111958_hu5580568511235915326.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250307141111958&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;217&#34;
+		data-flex-basis=&#34;521px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;生成0~n-1之间的随机数（默认）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;要生成m~n-1，要使用int number2 = r.nextInt( 1,11);基于JDK17之后才能使用&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;传统方式解决：减加法&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;65&lt;del&gt;91&amp;mdash;-&amp;gt;(0&lt;/del&gt;26) + 65&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>day02-数据类型和运算符</title>
+        <link>https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/</link>
+        <pubDate>Mon, 31 Mar 2025 21:40:25 +0800</pubDate>
+        
+        <guid>https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/</guid>
+        <description>&lt;img src="https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post day02-数据类型和运算符" /&gt;&lt;h1 id=&#34;数据类型和运算符&#34;&gt;数据类型和运算符
+&lt;/h1&gt;&lt;h1 id=&#34;1二进制&#34;&gt;1.二进制
+&lt;/h1&gt;&lt;h2 id=&#34;十进制转二进制的算法&#34;&gt;十进制转二进制的算法
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;除二取余法&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;表示数据的最小单元&#34;&gt;表示数据的最小单元
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;字节B&lt;/strong&gt;  （八位b一组） 1B=8b&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306155535943.png&#34;
+	width=&#34;820&#34;
+	height=&#34;153&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306155535943_hu134124290056030985.png 480w, https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306155535943_hu2839914174418361794.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250306155535943&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;535&#34;
+		data-flex-basis=&#34;1286px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;表示数据的最小单元是字节B  byte&lt;/p&gt;
+&lt;p&gt;存储数据的最小单元是位b   bit&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306155809925.png&#34;
+	width=&#34;781&#34;
+	height=&#34;353&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306155809925_hu13633653268010549142.png 480w, https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306155809925_hu10106769470158811185.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250306155809925&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;221&#34;
+		data-flex-basis=&#34;530px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;2文本和音频在计算机中的存储&#34;&gt;2.文本和音频在计算机中的存储
+&lt;/h1&gt;&lt;h2 id=&#34;文本&#34;&gt;文本
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;文本其实就是字符的存储&lt;/li&gt;
+&lt;li&gt;使用ASCII编码表：美国信息交换标准编码 （字符0）0-&amp;gt;48  a&amp;ndash;&amp;gt;97   A&amp;mdash;&amp;gt;65&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;图片&#34;&gt;图片
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;像素点组成 ：每个像素点的数据用0~255x255x255表示其颜色&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;声音&#34;&gt;声音
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;用波形存储&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306161114085.png&#34;
+	width=&#34;919&#34;
+	height=&#34;325&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306161114085_hu18013557829462417773.png 480w, https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306161114085_hu15210146344478834459.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250306161114085&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;282&#34;
+		data-flex-basis=&#34;678px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;总结&#34;&gt;总结
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;计算机中存取的都是二进制&lt;/li&gt;
+&lt;li&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306161149515.png&#34;
+	width=&#34;495&#34;
+	height=&#34;331&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306161149515_hu9430952618115355977.png 480w, https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306161149515_hu2030926888166163257.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250306161149515&#34;
 	
 	
 		class=&#34;gallery-image&#34; 
 		data-flex-grow=&#34;149&#34;
-		data-flex-basis=&#34;359px&#34;
+		data-flex-basis=&#34;358px&#34;
 	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;https://HIT-wjy.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu8363585391189779282.jpg 480w, https://HIT-wjy.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu15102473124145023839.jpg 1024w&#34;
+&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;3二进制十进制八进制十六进制&#34;&gt;3.二进制，十进制，八进制，十六进制
+&lt;/h1&gt;&lt;h2 id=&#34;二进制与十进制&#34;&gt;二进制与十进制
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;除二取余和乘方累积&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;二进制与八进制十六进制&#34;&gt;二进制与八进制，十六进制
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;每三个二进制组合变成八进制&lt;/li&gt;
+&lt;li&gt;每四个二进制组合变成十六进制    8421&lt;/li&gt;
+&lt;li&gt;为了便于观察和表示二进制，推出了八进制和十六进制&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;注意&#34;&gt;注意
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306161544165.png&#34;
+	width=&#34;685&#34;
+	height=&#34;91&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306161544165_hu15369583121223555368.png 480w, https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306161544165_hu6866010892309927481.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;Photo by Helena Hertz on Unsplash&#34;
+		alt=&#34;image-20250306161544165&#34;
 	
 	
 		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
+		data-flex-grow=&#34;752&#34;
+		data-flex-basis=&#34;1806px&#34;
 	
-&gt;  &lt;img src=&#34;https://HIT-wjy.github.io/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&#34;
-	width=&#34;667&#34;
-	height=&#34;1000&#34;
-	srcset=&#34;https://HIT-wjy.github.io/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu15886963791847885497.jpg 480w, https://HIT-wjy.github.io/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu11726476772237334826.jpg 1024w&#34;
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;4数据类型&#34;&gt;4.数据类型
+&lt;/h1&gt;&lt;h2 id=&#34;基本数据类型的分类---四大类八种&#34;&gt;基本数据类型的分类   四大类八种
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306161917924.png&#34;
+	width=&#34;918&#34;
+	height=&#34;407&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306161917924_hu9473964990912722779.png 480w, https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306161917924_hu5418451569259731305.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;Photo by Hudai Gayiran on Unsplash&#34;
+		alt=&#34;image-20250306161917924&#34;
 	
 	
 		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;66&#34;
-		data-flex-basis=&#34;160px&#34;
+		data-flex-grow=&#34;225&#34;
+		data-flex-basis=&#34;541px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;![&lt;span class=&#34;nt&#34;&gt;Photo by Florian Klauer on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;florian-klauer-nptLmg6jqDo-unsplash.jpg&lt;/span&gt;)  ![&lt;span class=&#34;nt&#34;&gt;Photo by Luca Bravo on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;luca-bravo-alS7ewQ41M8-unsplash.jpg&lt;/span&gt;) 
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;![&lt;span class=&#34;nt&#34;&gt;Photo by Helena Hertz on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;helena-hertz-wWZzXlDpMog-unsplash.jpg&lt;/span&gt;)  ![&lt;span class=&#34;nt&#34;&gt;Photo by Hudai Gayiran on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&lt;/span&gt;)
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;相册语法来自 &lt;a class=&#34;link&#34; href=&#34;https://typlog.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Typlog&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;注意：随便写的数字字面量默认是int类型，如果希望是long类型，后面必须加上l或L.否则会报错&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306162653037.png&#34;
+	width=&#34;583&#34;
+	height=&#34;85&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306162653037_hu948307057406274371.png 480w, https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306162653037_hu11351959414778659284.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250306162653037&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;685&#34;
+		data-flex-basis=&#34;1646px&#34;
+	
+&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306162717510.png&#34;
+	width=&#34;589&#34;
+	height=&#34;83&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306162717510_hu9958437451783753497.png 480w, https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306162717510_hu8938979649890088859.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250306162717510&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;709&#34;
+		data-flex-basis=&#34;1703px&#34;
+	
+&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;注意：随便写小数默认是double，希望是float，需要加f或F&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;引用数据类型---string&#34;&gt;引用数据类型   String
+&lt;/h2&gt;&lt;h2 id=&#34;自动类型转换&#34;&gt;自动类型转换
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;类型范围小的表量，可以直接赋值给类型范围大的变量。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306163517725.png&#34;
+	width=&#34;566&#34;
+	height=&#34;90&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306163517725_hu16321169537247938042.png 480w, https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306163517725_hu11772928466127669929.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250306163517725&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;628&#34;
+		data-flex-basis=&#34;1509px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;输出的时候由类型决定&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;强制类型转换&#34;&gt;强制类型转换
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306164711963.png&#34;
+	width=&#34;479&#34;
+	height=&#34;135&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306164711963_hu10371483396141260486.png 480w, https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306164711963_hu260916984670943937.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250306164711963&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;354&#34;
+		data-flex-basis=&#34;851px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306164728182.png&#34;
+	width=&#34;160&#34;
+	height=&#34;58&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306164728182_hu14950582305881879468.png 480w, https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306164728182_hu15519039178280803648.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250306164728182&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;275&#34;
+		data-flex-basis=&#34;662px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;使用alt + enter 可以自动补全代码&lt;/li&gt;
+&lt;li&gt;强制类型转换可能出现数据溢出&lt;/li&gt;
+&lt;li&gt;浮点型直接转成整形，会丢失小数，保留整数&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;5-运算符&#34;&gt;5. 运算符
+&lt;/h1&gt;&lt;h2 id=&#34;基本运算符&#34;&gt;基本运算符
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306165837247.png&#34;
+	width=&#34;677&#34;
+	height=&#34;308&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306165837247_hu12049049133335946652.png 480w, https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306165837247_hu14690884759476990390.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250306165837247&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;219&#34;
+		data-flex-basis=&#34;527px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306170119521.png&#34;
+	width=&#34;365&#34;
+	height=&#34;102&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306170119521_hu2249624514766805094.png 480w, https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306170119521_hu13876309344771279830.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250306170119521&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;357&#34;
+		data-flex-basis=&#34;858px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;想要得到2.5。可以再前面乘上1.0&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;“+”符号可以与字符串运算的时候用作连接符&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;能算则算，不能算就在一起&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;自增自减运算符&#34;&gt;自增自减运算符
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306172144887.png&#34;
+	width=&#34;525&#34;
+	height=&#34;182&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306172144887_hu13890945380513295277.png 480w, https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306172144887_hu10556716317096086305.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250306172144887&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;288&#34;
+		data-flex-basis=&#34;692px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;只能操作变量，不能操作字面量&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;赋值运算符&#34;&gt;赋值运算符
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306195835722.png&#34;
+	width=&#34;833&#34;
+	height=&#34;527&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306195835722_hu2996849401891037981.png 480w, https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306195835722_hu5984098611530537591.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250306195835722&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;158&#34;
+		data-flex-basis=&#34;379px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;强制转换为a的类型&lt;/p&gt;
+&lt;h2 id=&#34;关系运算符&#34;&gt;关系运算符
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306200426422.png&#34;
+	width=&#34;1096&#34;
+	height=&#34;461&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306200426422_hu5305588532214925116.png 480w, https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306200426422_hu12393658329198181864.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250306200426422&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;237&#34;
+		data-flex-basis=&#34;570px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;判断是否相等使用==&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;逻辑运算符&#34;&gt;逻辑运算符
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306200726132.png&#34;
+	width=&#34;1353&#34;
+	height=&#34;364&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306200726132_hu4792925387039572759.png 480w, https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306200726132_hu16584840947487412941.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250306200726132&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;371&#34;
+		data-flex-basis=&#34;892px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;java里逻辑运算符就是一个&amp;amp;，和C不一样，不是两个&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306204847512.png&#34;
+	width=&#34;1210&#34;
+	height=&#34;178&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306204847512_hu268959788804802052.png 480w, https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306204847512_hu10051099053650730001.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250306204847512&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;679&#34;
+		data-flex-basis=&#34;1631px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;效率更高，性能更好&lt;/li&gt;
+&lt;li&gt;&amp;amp;&amp;amp;判断左边位false右边则不执行&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;三元运算符&#34;&gt;三元运算符
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306205256162.png&#34;
+	width=&#34;447&#34;
+	height=&#34;132&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306205256162_hu17641477570474274206.png 480w, https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306205256162_hu12935508684166696507.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250306205256162&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;338&#34;
+		data-flex-basis=&#34;812px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;优先级&#34;&gt;优先级
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;C:%5cUsers%5cWJY%5cAppData%5cRoaming%5cTypora%5ctypora-user-images%5cimage-20250306210639359.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250306210639359&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;amp;&amp;amp;的优先级大于||&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;6扫描器接受用户通过键盘输入的数据&#34;&gt;6.扫描器（接受用户通过键盘输入的数据）
+&lt;/h1&gt;&lt;h2 id=&#34;apiapplication-programming-interface应用程序编程接口&#34;&gt;API(Application Programming Interface：应用程序编程接口)
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Java写好的程序，程序员可以直接调用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;使用scanner接受用户键盘输入的数据&#34;&gt;使用Scanner接受用户键盘输入的数据
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306211420112.png&#34;
+	width=&#34;877&#34;
+	height=&#34;408&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306211420112_hu12077066574658016698.png 480w, https://HIT-wjy.github.io/p/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/image-20250306211420112_hu10591116408445623370.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250306211420112&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;214&#34;
+		data-flex-basis=&#34;515px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;导包 import&lt;/li&gt;
+&lt;li&gt;抄代码：代表得到键盘扫描器对象&lt;/li&gt;
+&lt;li&gt;抄代码：等待用户输入数据&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         </item>
         <item>
-        <title>Markdown Syntax Guide</title>
-        <link>https://HIT-wjy.github.io/p/markdown-syntax-guide/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <title>day01-Java入门</title>
+        <link>https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/</link>
+        <pubDate>Mon, 31 Mar 2025 21:40:21 +0800</pubDate>
         
-        <guid>https://HIT-wjy.github.io/p/markdown-syntax-guide/</guid>
-        <description>&lt;img src="https://HIT-wjy.github.io/p/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
-&lt;h2 id=&#34;headings&#34;&gt;Headings
-&lt;/h2&gt;&lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; elements represent six levels of section headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; is the lowest.&lt;/p&gt;
-&lt;h1 id=&#34;h1&#34;&gt;H1
-&lt;/h1&gt;&lt;h2 id=&#34;h2&#34;&gt;H2
-&lt;/h2&gt;&lt;h3 id=&#34;h3&#34;&gt;H3
-&lt;/h3&gt;&lt;h4 id=&#34;h4&#34;&gt;H4
-&lt;/h4&gt;&lt;h5 id=&#34;h5&#34;&gt;H5
-&lt;/h5&gt;&lt;h6 id=&#34;h6&#34;&gt;H6
-&lt;/h6&gt;&lt;h2 id=&#34;paragraph&#34;&gt;Paragraph
-&lt;/h2&gt;&lt;p&gt;Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.&lt;/p&gt;
-&lt;p&gt;Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.&lt;/p&gt;
-&lt;h2 id=&#34;blockquotes&#34;&gt;Blockquotes
-&lt;/h2&gt;&lt;p&gt;The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a &lt;code&gt;footer&lt;/code&gt; or &lt;code&gt;cite&lt;/code&gt; element, and optionally with in-line changes such as annotations and abbreviations.&lt;/p&gt;
-&lt;h4 id=&#34;blockquote-without-attribution&#34;&gt;Blockquote without attribution
-&lt;/h4&gt;&lt;blockquote&gt;
-&lt;p&gt;Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-&lt;strong&gt;Note&lt;/strong&gt; that you can use &lt;em&gt;Markdown syntax&lt;/em&gt; within a blockquote.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h4 id=&#34;blockquote-with-attribution&#34;&gt;Blockquote with attribution
-&lt;/h4&gt;&lt;blockquote&gt;
-&lt;p&gt;Don&amp;rsquo;t communicate by sharing memory, share memory by communicating.&lt;br&gt;
-— &lt;cite&gt;Rob Pike&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;tables&#34;&gt;Tables
-&lt;/h2&gt;&lt;p&gt;Tables aren&amp;rsquo;t part of the core Markdown spec, but Hugo supports supports them out-of-the-box.&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Name&lt;/th&gt;
-&lt;th&gt;Age&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Bob&lt;/td&gt;
-&lt;td&gt;27&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Alice&lt;/td&gt;
-&lt;td&gt;23&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h4 id=&#34;inline-markdown-within-tables&#34;&gt;Inline Markdown within tables
-&lt;/h4&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Italics&lt;/th&gt;
-&lt;th&gt;Bold&lt;/th&gt;
-&lt;th&gt;Code&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;em&gt;italics&lt;/em&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;bold&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;code&gt;code&lt;/code&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;A&lt;/th&gt;
-&lt;th&gt;B&lt;/th&gt;
-&lt;th&gt;C&lt;/th&gt;
-&lt;th&gt;D&lt;/th&gt;
-&lt;th&gt;E&lt;/th&gt;
-&lt;th&gt;F&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/td&gt;
-&lt;td&gt;Phasellus ultricies, sapien non euismod aliquam, dui ligula tincidunt odio, at accumsan nulla sapien eget ex.&lt;/td&gt;
-&lt;td&gt;Proin eleifend dictum ipsum, non euismod ipsum pulvinar et. Vivamus sollicitudin, quam in pulvinar aliquam, metus elit pretium purus&lt;/td&gt;
-&lt;td&gt;Proin sit amet velit nec enim imperdiet vehicula.&lt;/td&gt;
-&lt;td&gt;Ut bibendum vestibulum quam, eu egestas turpis gravida nec&lt;/td&gt;
-&lt;td&gt;Sed scelerisque nec turpis vel viverra. Vivamus vitae pretium sapien&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&#34;code-blocks&#34;&gt;Code Blocks
-&lt;/h2&gt;&lt;h4 id=&#34;code-block-with-backticks&#34;&gt;Code block with backticks
-&lt;/h4&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;&amp;lt;!doctype html&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;lang&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;en&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;meta&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;charset&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;utf-8&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Example HTML5 Document&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Test&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;h4 id=&#34;code-block-indented-with-four-spaces&#34;&gt;Code block indented with four spaces
-&lt;/h4&gt;&lt;pre&gt;&lt;code&gt;&amp;lt;!doctype html&amp;gt;
-&amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt;
-&amp;lt;head&amp;gt;
-  &amp;lt;meta charset=&amp;quot;utf-8&amp;quot;&amp;gt;
-  &amp;lt;title&amp;gt;Example HTML5 Document&amp;lt;/title&amp;gt;
-&amp;lt;/head&amp;gt;
-&amp;lt;body&amp;gt;
-  &amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt;
-&amp;lt;/body&amp;gt;
-&amp;lt;/html&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h4 id=&#34;code-block-with-hugos-internal-highlight-shortcode&#34;&gt;Code block with Hugo&amp;rsquo;s internal highlight shortcode
-&lt;/h4&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;&amp;lt;!doctype html&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;lang&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;en&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;meta&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;charset&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;utf-8&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Example HTML5 Document&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Test&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;h4 id=&#34;diff-code-block&#34;&gt;Diff code block
-&lt;/h4&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-diff&#34; data-lang=&#34;diff&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;[dependencies.bevy]
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git = &amp;#34;https://github.com/bevyengine/bevy&amp;#34;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;rev = &amp;#34;11f52b8c72fc3a568e8bb4a4cd1f3eb025ac2e13&amp;#34;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gd&#34;&gt;- features = [&amp;#34;dynamic&amp;#34;]
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gd&#34;&gt;&lt;/span&gt;&lt;span class=&#34;gi&#34;&gt;+ features = [&amp;#34;jpeg&amp;#34;, &amp;#34;dynamic&amp;#34;]
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;h2 id=&#34;list-types&#34;&gt;List Types
-&lt;/h2&gt;&lt;h4 id=&#34;ordered-list&#34;&gt;Ordered List
-&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;First item&lt;/li&gt;
-&lt;li&gt;Second item&lt;/li&gt;
-&lt;li&gt;Third item&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4 id=&#34;unordered-list&#34;&gt;Unordered List
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;List item&lt;/li&gt;
-&lt;li&gt;Another item&lt;/li&gt;
-&lt;li&gt;And another item&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;nested-list&#34;&gt;Nested list
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;Fruit
-&lt;ul&gt;
-&lt;li&gt;Apple&lt;/li&gt;
-&lt;li&gt;Orange&lt;/li&gt;
-&lt;li&gt;Banana&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Dairy
-&lt;ul&gt;
-&lt;li&gt;Milk&lt;/li&gt;
-&lt;li&gt;Cheese&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;other-elements--abbr-sub-sup-kbd-mark&#34;&gt;Other Elements — abbr, sub, sup, kbd, mark
-&lt;/h2&gt;&lt;p&gt;&lt;abbr title=&#34;Graphics Interchange Format&#34;&gt;GIF&lt;/abbr&gt; is a bitmap image format.&lt;/p&gt;
-&lt;p&gt;H&lt;sub&gt;2&lt;/sub&gt;O&lt;/p&gt;
-&lt;p&gt;X&lt;sup&gt;n&lt;/sup&gt; + Y&lt;sup&gt;n&lt;/sup&gt; = Z&lt;sup&gt;n&lt;/sup&gt;&lt;/p&gt;
-&lt;p&gt;Press &lt;kbd&gt;CTRL&lt;/kbd&gt; + &lt;kbd&gt;ALT&lt;/kbd&gt; + &lt;kbd&gt;Delete&lt;/kbd&gt; to end the session.&lt;/p&gt;
-&lt;p&gt;Most &lt;mark&gt;salamanders&lt;/mark&gt; are nocturnal, and hunt for insects, worms, and other small creatures.&lt;/p&gt;
-&lt;h2 id=&#34;hyperlinked-image&#34;&gt;Hyperlinked image
-&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://google.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;img src=&#34;https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Google&#34;
-	
-	
-&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;The above quote is excerpted from Rob Pike&amp;rsquo;s &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=PAAkCSZUG1c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;talk&lt;/a&gt; during Gopherfest, November 18, 2015.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;</description>
-        </item>
-        <item>
-        <title>Placeholder Text</title>
-        <link>https://HIT-wjy.github.io/p/placeholder-text/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://HIT-wjy.github.io/p/placeholder-text/</guid>
-        <description>&lt;img src="https://HIT-wjy.github.io/p/placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg" alt="Featured image of post Placeholder Text" /&gt;&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;
-&lt;p&gt;Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Exierant elisi ambit vivere dedere&lt;/li&gt;
-&lt;li&gt;Duce pollice&lt;/li&gt;
-&lt;li&gt;Eris modo&lt;/li&gt;
-&lt;li&gt;Spargitque ferrea quos palude&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Comas hunc haec pietate fetum procerum dixit&lt;/li&gt;
-&lt;li&gt;Post torum vates letum Tiresia&lt;/li&gt;
-&lt;li&gt;Flumen querellas&lt;/li&gt;
-&lt;li&gt;Arcanaque montibus omnes&lt;/li&gt;
-&lt;li&gt;Quidem et&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h1 id=&#34;vagus-elidunt&#34;&gt;Vagus elidunt
-&lt;/h1&gt;&lt;p&gt;&lt;svg class=&#34;canon&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; overflow=&#34;visible&#34; viewBox=&#34;0 0 496 373&#34; height=&#34;373&#34; width=&#34;496&#34;&gt;&lt;g fill=&#34;none&#34;&gt;&lt;path stroke=&#34;#000&#34; stroke-width=&#34;.75&#34; d=&#34;M.599 372.348L495.263 1.206M.312.633l494.95 370.853M.312 372.633L247.643.92M248.502.92l246.76 370.566M330.828 123.869V1.134M330.396 1.134L165.104 124.515&#34;&gt;&lt;/path&gt;&lt;path stroke=&#34;#ED1C24&#34; stroke-width=&#34;.75&#34; d=&#34;M275.73 41.616h166.224v249.05H275.73zM54.478 41.616h166.225v249.052H54.478z&#34;&gt;&lt;/path&gt;&lt;path stroke=&#34;#000&#34; stroke-width=&#34;.75&#34; d=&#34;M.479.375h495v372h-495zM247.979.875v372&#34;&gt;&lt;/path&gt;&lt;ellipse cx=&#34;498.729&#34; cy=&#34;177.625&#34; rx=&#34;.75&#34; ry=&#34;1.25&#34;&gt;&lt;/ellipse&gt;&lt;ellipse cx=&#34;247.229&#34; cy=&#34;377.375&#34; rx=&#34;.75&#34; ry=&#34;1.25&#34;&gt;&lt;/ellipse&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;The Van de Graaf Canon&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;mane-refeci-capiebant-unda-mulcebat&#34;&gt;Mane refeci capiebant unda mulcebat
-&lt;/h2&gt;&lt;p&gt;Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. &lt;strong&gt;Faces illo pepulere&lt;/strong&gt; tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.&lt;/p&gt;
-&lt;p&gt;Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae vulnus haerentia iuste et exercebat, sui et.&lt;/p&gt;
-&lt;p&gt;Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel &lt;strong&gt;mitis temploque&lt;/strong&gt; vocatus, inque alis, &lt;em&gt;oculos nomen&lt;/em&gt; non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem Propoetides &lt;strong&gt;parte&lt;/strong&gt;.&lt;/p&gt;</description>
-        </item>
-        <item>
-        <title>Math Typesetting</title>
-        <link>https://HIT-wjy.github.io/p/math-typesetting/</link>
-        <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://HIT-wjy.github.io/p/math-typesetting/</guid>
-        <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
-&lt;p&gt;In this example we will be using &lt;a class=&#34;link&#34; href=&#34;https://katex.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;KaTeX&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Create a partial under &lt;code&gt;/layouts/partials/math.html&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Within this partial reference the &lt;a class=&#34;link&#34; href=&#34;https://katex.org/docs/autorender.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Auto-render Extension&lt;/a&gt; or host these scripts locally.&lt;/li&gt;
-&lt;li&gt;Include the partial in your templates like so:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;{{&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; or .Params.math .Site.Params.math &lt;span class=&#34;o&#34;&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;{{&lt;/span&gt; partial &lt;span class=&#34;s2&#34;&gt;&amp;#34;math.html&amp;#34;&lt;/span&gt; . &lt;span class=&#34;o&#34;&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;{{&lt;/span&gt; end &lt;span class=&#34;o&#34;&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;ul&gt;
-&lt;li&gt;To enable KaTeX globally set the parameter &lt;code&gt;math&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; in a project&amp;rsquo;s configuration&lt;/li&gt;
-&lt;li&gt;To enable KaTeX on a per page basis include the parameter &lt;code&gt;math: true&lt;/code&gt; in content files&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Use the online reference of &lt;a class=&#34;link&#34; href=&#34;https://katex.org/docs/supported.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Supported TeX Functions&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;examples&#34;&gt;Examples
-&lt;/h3&gt;&lt;p&gt;Inline math: $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$&lt;/p&gt;
-&lt;p&gt;Block math:
-$$
-\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
-$$&lt;/p&gt;</description>
-        </item>
-        <item>
-        <title>Emoji Support</title>
-        <link>https://HIT-wjy.github.io/p/emoji-support/</link>
-        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://HIT-wjy.github.io/p/emoji-support/</guid>
-        <description>&lt;img src="https://HIT-wjy.github.io/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
-&lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/functions/emojify/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;code&gt;emojify&lt;/code&gt;&lt;/a&gt; function can be called directly in templates or &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;To enable emoji globally, set &lt;code&gt;enableEmoji&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; in your site&amp;rsquo;s &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/getting-started/configuration/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;configuration&lt;/a&gt; and then you can type emoji shorthand codes directly in content files; e.g.&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙈&lt;/span&gt; &lt;code&gt;:see_no_evil:&lt;/code&gt;&lt;/span&gt;  &lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙉&lt;/span&gt; &lt;code&gt;:hear_no_evil:&lt;/code&gt;&lt;/span&gt;  &lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙊&lt;/span&gt; &lt;code&gt;:speak_no_evil:&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;br&gt;
-&lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;http://www.emoji-cheat-sheet.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Emoji cheat sheet&lt;/a&gt; is a useful reference for emoji shorthand codes.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;N.B.&lt;/strong&gt; The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;.emoji {
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description>
-        </item>
-        <item>
-        <title></title>
-        <link>https://HIT-wjy.github.io/p/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://HIT-wjy.github.io/p/</guid>
-        <description>&lt;h1 id=&#34;1java基础语法&#34;&gt;1.Java基础语法
+        <guid>https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/</guid>
+        <description>&lt;img src="https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg" alt="Featured image of post day01-Java入门" /&gt;&lt;h1 id=&#34;1java基础语法&#34;&gt;1.Java基础语法
 &lt;/h1&gt;&lt;ul&gt;
 &lt;li&gt;服务器端的软件开发，做数据分析的称之为后端&lt;/li&gt;
 &lt;li&gt;网页，客户端的称为前端&lt;/li&gt;
@@ -483,14 +656,18 @@ $$&lt;/p&gt;</description>
 &lt;li&gt;进阶版&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;总结&#34;&gt;总结
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250303153216388.png&#34;
-	
-	
-	
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250303153216388.png&#34;
+	width=&#34;1360&#34;
+	height=&#34;779&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250303153216388_hu13356559766250178027.png 480w, https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250303153216388_hu4695762206873107833.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image-20250303153216388&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;174&#34;
+		data-flex-basis=&#34;418px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;h1 id=&#34;2搭建java开发环境&#34;&gt;2.搭建Java开发环境
@@ -507,14 +684,18 @@ $$&lt;/p&gt;</description>
 &lt;li&gt;Java程序是高级语言，计算机底层是硬件不能识别这些语言，必须先通过javac编译工具进行编译，然后再通过java执行工具执行才可以驱动机器干活&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;总结-1&#34;&gt;总结
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250303154935631.png&#34;
-	
-	
-	
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250303154935631.png&#34;
+	width=&#34;742&#34;
+	height=&#34;391&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250303154935631_hu276037539358263518.png 480w, https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250303154935631_hu13718599820786947425.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image-20250303154935631&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;189&#34;
+		data-flex-basis=&#34;455px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;h1 id=&#34;3cmd的使用&#34;&gt;3.cmd的使用
@@ -581,37 +762,49 @@ $$&lt;/p&gt;</description>
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;使用javac命令进行编译，编译通过会生成hello.class文件&lt;/li&gt;
 &lt;li&gt;使用java命令进行执行，&lt;strong&gt;注意不是 java hello.class  而是直接java hello&lt;/strong&gt;    这是规定&lt;/li&gt;
-&lt;li&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250303161920325.png&#34;
-	
-	
-	
+&lt;li&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250303161920325.png&#34;
+	width=&#34;545&#34;
+	height=&#34;323&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250303161920325_hu3791616712993189796.png 480w, https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250303161920325_hu13955852091123639886.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image-20250303161920325&#34;
 	
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;168&#34;
+		data-flex-basis=&#34;404px&#34;
+	
 &gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;总结-2&#34;&gt;总结
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250303162240705.png&#34;
-	
-	
-	
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250303162240705.png&#34;
+	width=&#34;847&#34;
+	height=&#34;515&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250303162240705_hu1682304013532466021.png 480w, https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250303162240705_hu16858396425866834265.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image-20250303162240705&#34;
 	
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;164&#34;
+		data-flex-basis=&#34;394px&#34;
+	
 &gt;&lt;/p&gt;
 &lt;h1 id=&#34;5程序的原理&#34;&gt;5.程序的原理
-&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250304215401902.png&#34;
-	
-	
-	
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250304215401902.png&#34;
+	width=&#34;606&#34;
+	height=&#34;211&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250304215401902_hu1499361950151894559.png 480w, https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250304215401902_hu16625295078072337738.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image-20250304215401902&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;287&#34;
+		data-flex-basis=&#34;689px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;h1 id=&#34;6jdk的组成&#34;&gt;6.JDK的组成
@@ -626,28 +819,36 @@ $$&lt;/p&gt;</description>
 &lt;p&gt;JRE(Java Runtime Environment)：Java的运行环境   上面两个加起来&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250304215917722.png&#34;
-	
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250304215917722.png&#34;
+	width=&#34;451&#34;
+	height=&#34;409&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250304215917722_hu12004819264347728592.png 480w, https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250304215917722_hu14548409205494268371.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image-20250304215917722&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;110&#34;
+		data-flex-basis=&#34;264px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;javac 编译代码，java运行代码，把class文件送到JJVM中，运行的时候可能会调用核心类库&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;7java的跨平台特性&#34;&gt;7.Java的跨平台特性
-&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250304220237149.png&#34;
-	
-	
-	
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250304220237149.png&#34;
+	width=&#34;873&#34;
+	height=&#34;413&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250304220237149_hu15378767459735970827.png 480w, https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250304220237149_hu11205191545728474391.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image-20250304220237149&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;211&#34;
+		data-flex-basis=&#34;507px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -661,14 +862,18 @@ $$&lt;/p&gt;</description>
 &lt;li&gt;用户环境变量只对当前用户生效，系统环境变量对所有用户生效&lt;/li&gt;
 &lt;li&gt;加入环境变量，当从当前文件夹找不到时，会去环境变量中去找&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250304221038365.png&#34;
-	
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250304221038365.png&#34;
+	width=&#34;858&#34;
+	height=&#34;190&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250304221038365_hu6320757123958170807.png 480w, https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250304221038365_hu3709294311368864685.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image-20250304221038365&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;451&#34;
+		data-flex-basis=&#34;1083px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -682,27 +887,35 @@ $$&lt;/p&gt;</description>
 &lt;p&gt;建议为JDK再配置JAVA_HOME环境变量&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;JAVA_HOME：用于告诉操作系统JDK安装在了哪个位置（将来其他技术要通过这个环境变量找JDK&lt;/li&gt;
-&lt;li&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250304222204600.png&#34;
-	
-	
-	
+&lt;li&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250304222204600.png&#34;
+	width=&#34;354&#34;
+	height=&#34;27&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250304222204600_hu18164983619196274884.png 480w, https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250304222204600_hu5978695617140792644.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image-20250304222204600&#34;
 	
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;1311&#34;
+		data-flex-basis=&#34;3146px&#34;
+	
 &gt;&lt;/li&gt;
 &lt;li&gt;JAVA的家不带Bin&lt;/li&gt;
 &lt;li&gt;为了方便维护，可以讲Path中的路径改为**%JAVA_HOME%**。这样以后改JAVA_HOME，path中也会自动改&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250304222356008.png&#34;
-	
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250304222356008.png&#34;
+	width=&#34;197&#34;
+	height=&#34;55&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250304222356008_hu3298413426585589079.png 480w, https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250304222356008_hu10448634317347245065.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image-20250304222505803&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;358&#34;
+		data-flex-basis=&#34;859px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;/li&gt;
@@ -715,14 +928,18 @@ $$&lt;/p&gt;</description>
 &lt;li&gt;写代码有提示，可以一键编译执行&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;intellij-idea&#34;&gt;IntelliJ IDEA
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250305142206110.png&#34;
-	
-	
-	
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305142206110.png&#34;
+	width=&#34;1082&#34;
+	height=&#34;552&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305142206110_hu13629458528384282180.png 480w, https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305142206110_hu13603646283842719147.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image-20250305142206110&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;196&#34;
+		data-flex-basis=&#34;470px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -730,24 +947,32 @@ $$&lt;/p&gt;</description>
 &lt;li&gt;安装的时候一定要去除空格&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;10idea管理java程序的总体结构&#34;&gt;10.IDEA管理java程序的总体结构
-&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250305151949005.png&#34;
-	
-	
-	
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305151949005.png&#34;
+	width=&#34;715&#34;
+	height=&#34;298&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305151949005_hu5359199730252641375.png 480w, https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305151949005_hu15154578664692848185.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image-20250305151949005&#34;
 	
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;239&#34;
+		data-flex-basis=&#34;575px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250305152400314.png&#34;
-	
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305152400314.png&#34;
+	width=&#34;1557&#34;
+	height=&#34;635&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305152400314_hu16560054800657693632.png 480w, https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305152400314_hu13008906919493812188.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image-20250305152400314&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;245&#34;
+		data-flex-basis=&#34;588px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;使用idea开发第一个工程&#34;&gt;使用idea开发第一个工程
@@ -759,28 +984,36 @@ $$&lt;/p&gt;</description>
 &lt;li&gt;编写代码并启动&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;总结-3&#34;&gt;总结
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250305153733257.png&#34;
-	
-	
-	
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305153733257.png&#34;
+	width=&#34;1292&#34;
+	height=&#34;696&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305153733257_hu821281438733369180.png 480w, https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305153733257_hu2956705298071277701.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image-20250305153733257&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;185&#34;
+		data-flex-basis=&#34;445px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;h1 id=&#34;11idea的高效使用&#34;&gt;11.IDEA的高效使用
 &lt;/h1&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;调节字体背景色&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250305154253301.png&#34;
-	
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305154253301.png&#34;
+	width=&#34;915&#34;
+	height=&#34;519&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305154253301_hu13475672244597851651.png 480w, https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305154253301_hu6361460995905968737.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image-20250305154253301&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;176&#34;
+		data-flex-basis=&#34;423px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;/li&gt;
@@ -788,14 +1021,18 @@ $$&lt;/p&gt;</description>
 &lt;p&gt;常用快捷键&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250305154340734.png&#34;
-	
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305154340734.png&#34;
+	width=&#34;696&#34;
+	height=&#34;352&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305154340734_hu3233062676608898435.png 480w, https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305154340734_hu4205912704742302425.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image-20250305154340734&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;197&#34;
+		data-flex-basis=&#34;474px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;ol start=&#34;3&#34;&gt;
@@ -835,51 +1072,67 @@ $$&lt;/p&gt;</description>
 &lt;li&gt;&lt;strong&gt;文档注释&lt;/strong&gt;是/**  一般用在类上，方法上，就是很专业的。里面的内容可以自动提取到程序说明书中去。&lt;/li&gt;
 &lt;li&gt;Java进行编译后生成class文件，其中会把注释全部去掉&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250305161922040.png&#34;
-	
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305161922040.png&#34;
+	width=&#34;1321&#34;
+	height=&#34;598&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305161922040_hu11790434837358543378.png 480w, https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305161922040_hu15942820242108710787.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image-20250305161922040&#34;
 	
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;220&#34;
+		data-flex-basis=&#34;530px&#34;
+	
 &gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;生成程序说明书   javadoc -d api（文件夹名字） .\CommentDemo.java&lt;/li&gt;
+&lt;li&gt;生成程序说明书   javadoc -d api（文件夹名字） CommentDemo.java&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250305162635891.png&#34;
-	
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305162635891.png&#34;
+	width=&#34;864&#34;
+	height=&#34;63&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305162635891_hu17711974064111672793.png 480w, https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305162635891_hu9987627917715750872.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image-20250305162635891&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;1371&#34;
+		data-flex-basis=&#34;3291px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;字面量&#34;&gt;字面量
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;告诉程序员：数据在程序中的书写格式&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250305162715777.png&#34;
-	
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305162715777.png&#34;
+	width=&#34;1376&#34;
+	height=&#34;503&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305162715777_hu8360022435655571907.png 480w, https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305162715777_hu15577285848637017582.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image-20250305162715777&#34;
 	
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;273&#34;
+		data-flex-basis=&#34;656px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250305163528214.png&#34;
-	
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305163528214.png&#34;
+	width=&#34;1178&#34;
+	height=&#34;564&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305163528214_hu4777733992327890051.png 480w, https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305163528214_hu3131095442580654529.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image-20250305163528214&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;208&#34;
+		data-flex-basis=&#34;501px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;变量&#34;&gt;变量
@@ -888,14 +1141,18 @@ $$&lt;/p&gt;</description>
 &lt;li&gt;变量用来&lt;strong&gt;记住&lt;/strong&gt;程序要处理的&lt;strong&gt;数据&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;数据类型  变量名称  = 数据;      int age =18;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250305163704591.png&#34;
-	
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305163704591.png&#34;
+	width=&#34;894&#34;
+	height=&#34;348&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305163704591_hu3636786510009629383.png 480w, https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305163704591_hu8637008889562974155.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image-20250305163704591&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;256&#34;
+		data-flex-basis=&#34;616px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -906,14 +1163,18 @@ $$&lt;/p&gt;</description>
 &lt;p&gt;变量的执行原理&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;就是内存中的一块区域，用来存储数据&lt;/li&gt;
-&lt;li&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250305164236838.png&#34;
-	
-	
-	
+&lt;li&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305164236838.png&#34;
+	width=&#34;1157&#34;
+	height=&#34;514&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305164236838_hu12476149306839963791.png 480w, https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305164236838_hu503274137532897812.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image-20250305164236838&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;225&#34;
+		data-flex-basis=&#34;540px&#34;
 	
 &gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -924,14 +1185,18 @@ $$&lt;/p&gt;</description>
 &lt;li&gt;变量里的数据可替换&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;使用变量的注意事项&#34;&gt;使用变量的注意事项
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/.%5cimage-20250305165537180.png&#34;
-	
-	
-	
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305165537180.png&#34;
+	width=&#34;905&#34;
+	height=&#34;637&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305165537180_hu6012507443718613623.png 480w, https://HIT-wjy.github.io/p/day01-java%E5%85%A5%E9%97%A8/image-20250305165537180_hu11413009458778537401.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image-20250305165537180&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;142&#34;
+		data-flex-basis=&#34;340px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -956,6 +1221,365 @@ $$&lt;/p&gt;</description>
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Hugo&#43;githubpage搭建博客</title>
+        <link>https://HIT-wjy.github.io/p/hugo-githubpage%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</link>
+        <pubDate>Sun, 30 Mar 2025 21:40:21 +0800</pubDate>
+        
+        <guid>https://HIT-wjy.github.io/p/hugo-githubpage%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</guid>
+        <description>&lt;img src="https://HIT-wjy.github.io/p/hugo-githubpage%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/ekko.jpg" alt="Featured image of post Hugo&#43;githubpage搭建博客" /&gt;&lt;h1 id=&#34;环境准备&#34;&gt;环境准备
+&lt;/h1&gt;&lt;h2 id=&#34;hugo&#34;&gt;Hugo
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;下载hugo &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;The world&amp;rsquo;s fastest framework for building websites&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;直接进入上面的github界面，进入Tags，挑选版本&lt;/li&gt;
+&lt;li&gt;笔者使用hugo_extended_&lt;strong&gt;0.131.0&lt;/strong&gt;_windows-amd64版本&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;使用hugo new site &lt;strong&gt;name&lt;/strong&gt; 创建一个节点,name为节点名（我使用dev）
+&lt;ul&gt;
+&lt;li&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/hugo-githubpage%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/image-20250331235431085.png&#34;
+	width=&#34;922&#34;
+	height=&#34;147&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/hugo-githubpage%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/image-20250331235431085_hu6971651856836886927.png 480w, https://HIT-wjy.github.io/p/hugo-githubpage%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/image-20250331235431085_hu14706298549509465738.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250331235431085&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;627&#34;
+		data-flex-basis=&#34;1505px&#34;
+	
+&gt;&lt;/li&gt;
+&lt;li&gt;以上为核心步骤&lt;/li&gt;
+&lt;li&gt;切换到新创建的节点目录（以后都用dev代替），并且要将hugo.exe复制进新文件夹中（或者加入环境变量）&lt;/li&gt;
+&lt;li&gt;之后就可以使用&lt;strong&gt;hugo server &amp;ndash;buildDrafts&lt;/strong&gt;启动了（但是目前没有主题，打开是Page Not Found），&amp;ndash;buildDrafts可以简写为-D&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;安装一个hugo主题
+&lt;ul&gt;
+&lt;li&gt;在hugo官网上找到Themes，即可下载想要的主题（我选择了Stack主题），下载方式和hugo一样，都是进github中下载&lt;/li&gt;
+&lt;li&gt;将主题文件放到&lt;strong&gt;themes&lt;/strong&gt;文件夹中&lt;/li&gt;
+&lt;li&gt;可以将&lt;strong&gt;example&lt;/strong&gt;中的&lt;strong&gt;content&lt;/strong&gt;和&lt;strong&gt;hugo.yaml&lt;/strong&gt;文件取出到dev文件夹中，进行修改，搭建自己的博客&lt;/li&gt;
+&lt;li&gt;删除hugo.toml，使用hugo.yaml就可以，都是配置文件&lt;/li&gt;
+&lt;li&gt;删掉&lt;strong&gt;content&lt;/strong&gt;文件中的rich-content，因为它引用了youtube上的视频（连接不上）&lt;/li&gt;
+&lt;li&gt;先修改themes上的版本号&lt;/li&gt;
+&lt;li&gt;使用hugo new content post/myfirst/index.md可以创建一个新的内容&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;修改hugo.yaml配置文件
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;baseurl&lt;/strong&gt;：网站地址，等在github创建好对应的仓库再填写&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;theme&lt;/strong&gt;:主题，要与themes文件夹中的主题文件同名&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;paginate&lt;/strong&gt;：分页，一页显示多少篇博客&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;copyright&lt;/strong&gt;：版权，（但是可以改）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DefaultContentLanguage&lt;/strong&gt;：默认语言&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;hasCJKLanguage&lt;/strong&gt;：使用zh-cn ja ko的时候打开，字数统计会准确一点&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;language&lt;/strong&gt;：设置语言。
+&lt;ul&gt;
+&lt;li&gt;languageName:修改语言时显示的名称&lt;/li&gt;
+&lt;li&gt;title：网页用户的名字&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;favicon&lt;/strong&gt;：网页小图标&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;footer&lt;/strong&gt;：脚标
+&lt;ul&gt;
+&lt;li&gt;since：时间&lt;/li&gt;
+&lt;li&gt;customText：自定义文本&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;dateFormat&lt;/strong&gt;:日期格式&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;sidebar&lt;/strong&gt;:边栏
+&lt;ul&gt;
+&lt;li&gt;emoji：头像旁边的小表情&lt;/li&gt;
+&lt;li&gt;subtitile：个性签名&lt;/li&gt;
+&lt;li&gt;avater：设置头像，要是150*150的。放在img/avatar.png处&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;widgets：右侧边栏&lt;/li&gt;
+&lt;li&gt;menu：菜单
+&lt;ul&gt;
+&lt;li&gt;social:社交链接，只保存了github&lt;/li&gt;
+&lt;li&gt;菜单下面的几个可以在dev/content/page中修改&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;到此为止，一个静态博客就部署好了&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;git&#34;&gt;git
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;下载一个git就好&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;部署在github上&#34;&gt;部署在github上
+&lt;/h1&gt;&lt;h2 id=&#34;静态部署&#34;&gt;静态部署
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;创建一个仓库，仓库名最好直接是&lt;strong&gt;用户名.github.io&lt;/strong&gt;，并且是公有public&lt;/li&gt;
+&lt;li&gt;上传代码
+&lt;ul&gt;
+&lt;li&gt;将hugo.yaml中的baseurl改成仓库连接&lt;strong&gt;用户名.github.io&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;重新生成一个public文件（dev中打开cmd，hugo -D）&lt;/li&gt;
+&lt;li&gt;在public文件下打开cmd，通过git，上传到github&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;开启静态页面
+&lt;ul&gt;
+&lt;li&gt;Settings-&amp;gt;Pages&lt;/li&gt;
+&lt;li&gt;将Branch选择为main主分支并save，等待一段时间部署
+&lt;ul&gt;
+&lt;li&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/hugo-githubpage%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/image-20250401143235228.png&#34;
+	width=&#34;401&#34;
+	height=&#34;91&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/hugo-githubpage%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/image-20250401143235228_hu1193653147314470737.png 480w, https://HIT-wjy.github.io/p/hugo-githubpage%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/image-20250401143235228_hu10617023555588431586.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250401143235228&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;440&#34;
+		data-flex-basis=&#34;1057px&#34;
+	
+&gt;&lt;/li&gt;
+&lt;li&gt;刷出这个说明已经部署好了&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;通过git-action实现自动部署&#34;&gt;通过git action实现自动部署
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;通过自动部署，只需要每次git push就可以了，不用在提交public之后重新部署了&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;新建仓库&#34;&gt;新建仓库
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;新建一个仓库hugo-main，将其私有&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;可以新建一个.gitignore&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;public
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;resources
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;.hugo_build.lock
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hugo.exe
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;忽略这些东西的上传&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;然后git上传&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;获取token&#34;&gt;获取Token
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;个人设置中的Settings-&amp;gt;Developer settings-&amp;gt;Personal access tokens-&amp;gt;Tokens(class)-&amp;gt;Generate newtoken&lt;/li&gt;
+&lt;li&gt;token名可以随便起一个&lt;/li&gt;
+&lt;li&gt;Exipration（过期时间）&lt;/li&gt;
+&lt;li&gt;Select scopes选择repo和workflow&lt;/li&gt;
+&lt;li&gt;生成的token码一定要保存下来，之后就不会显示了&lt;/li&gt;
+&lt;li&gt;去到hugo-main仓库上设置环境变量，将token存进去
+&lt;ul&gt;
+&lt;li&gt;Secrets and variables-&amp;gt;Actions-&amp;gt;New repository secret&lt;/li&gt;
+&lt;li&gt;Name就定义为token就好，然后输入token码&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;开始部署&#34;&gt;开始部署
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;在主文件下生成一个.github文件夹&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在.github中创建一个workflows文件夹&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;新建一个hugo_depoly.yaml文件&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;20
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;21
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;22
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;23
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;24
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;25
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;26
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;27
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;28
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;29
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;30
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;31
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;32
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;33
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;34
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;name: deploy
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# 代码提交到main分支时触发github action
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;on:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  push:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    branches:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      - main
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;jobs:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  deploy:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    runs-on: ubuntu-24.04
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    steps:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        - name: Checkout
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          uses: actions/checkout@v4
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          with:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;              fetch-depth: 0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        - name: Setup Hugo
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          uses: peaceiris/actions-hugo@v3
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          with:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;              hugo-version: &amp;#34;0.131.0&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;              extended: true
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        - name: Build Web
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          run: hugo -D
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        - name: Deploy Web
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          uses: peaceiris/actions-gh-pages@v4
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          with:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;              PERSONAL_TOKEN: ${{ secrets.TOKEN }}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;              EXTERNAL_REPOSITORY: github名/仓库名
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;              PUBLISH_BRANCH: main
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;              PUBLISH_DIR: ./public
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;              commit_message: auto deploy
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;将这些push上去就会自动部署了&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Chinese Test</title>
+        <link>https://HIT-wjy.github.io/p/test-chinese/</link>
+        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://HIT-wjy.github.io/p/test-chinese/</guid>
+        <description>&lt;img src="https://HIT-wjy.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Chinese Test" /&gt;&lt;h2 id=&#34;正文测试&#34;&gt;正文测试
+&lt;/h2&gt;&lt;p&gt;而这些并不是完全重要，更加重要的问题是， 带着这些问题，我们来审视一下学生会退会。 既然如何， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 我们不得不面对一个非常尴尬的事实，那就是， 可是，即使是这样，学生会退会的出现仍然代表了一定的意义。 学生会退会，发生了会如何，不发生又会如何。 经过上述讨论， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 学生会退会，到底应该如何实现。 这样看来， 在这种困难的抉择下，本人思来想去，寝食难安。 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 就我个人来说，学生会退会对我的意义，不能不说非常重大。 莎士比亚曾经提到过，人的一生是短的，但如果卑劣地过这一生，就太长了。这似乎解答了我的疑惑。 莫扎特说过一句富有哲理的话，谁和我一样用功，谁就会和我一样成功。这启发了我， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 学生会退会，到底应该如何实现。 一般来说， 从这个角度来看， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 在这种困难的抉择下，本人思来想去，寝食难安。 了解清楚学生会退会到底是一种怎么样的存在，是解决一切问题的关键。 一般来说， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 问题的关键究竟为何？ 而这些并不是完全重要，更加重要的问题是。&lt;/p&gt;
+&lt;p&gt;奥斯特洛夫斯基曾经说过，共同的事业，共同的斗争，可以使人们产生忍受一切的力量。　带着这句话，我们还要更加慎重的审视这个问题： 一般来讲，我们都必须务必慎重的考虑考虑。 既然如此， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 带着这些问题，我们来审视一下学生会退会。 我认为， 我认为， 在这种困难的抉择下，本人思来想去，寝食难安。 问题的关键究竟为何？ 每个人都不得不面对这些问题。 在面对这种问题时， 要想清楚，学生会退会，到底是一种怎么样的存在。 我认为， 既然如此， 每个人都不得不面对这些问题。 在面对这种问题时， 那么， 我认为， 学生会退会因何而发生。&lt;/p&gt;
+&lt;h2 id=&#34;引用&#34;&gt;引用
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;思念是最暖的忧伤像一双翅膀&lt;br&gt;
+让我停不了飞不远在过往游荡&lt;br&gt;
+不告而别的你 就算为了我着想&lt;br&gt;
+这么沉痛的呵护 我怎么能翱翔&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=3aypp_YlBzI&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;最暖的憂傷 - 田馥甄&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;图片&#34;&gt;图片
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash.jpg&#34;
+	width=&#34;667&#34;
+	height=&#34;1000&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu13768363498926278726.jpg 480w, https://HIT-wjy.github.io/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu13380208884366868750.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Photo by Florian Klauer on Unsplash&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;66&#34;
+		data-flex-basis=&#34;160px&#34;
+	
+&gt;  &lt;img src=&#34;https://HIT-wjy.github.io/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash.jpg&#34;
+	width=&#34;1000&#34;
+	height=&#34;667&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu1712544344331247820.jpg 480w, https://HIT-wjy.github.io/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu12475395149584884402.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Photo by Luca Bravo on Unsplash&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;149&#34;
+		data-flex-basis=&#34;359px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://HIT-wjy.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg&#34;
+	width=&#34;1000&#34;
+	height=&#34;750&#34;
+	srcset=&#34;https://HIT-wjy.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu8363585391189779282.jpg 480w, https://HIT-wjy.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu15102473124145023839.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Photo by Helena Hertz on Unsplash&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;  &lt;img src=&#34;https://HIT-wjy.github.io/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Photo by Hudai Gayiran on Unsplash&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;![&lt;span class=&#34;nt&#34;&gt;Photo by Florian Klauer on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;florian-klauer-nptLmg6jqDo-unsplash.jpg&lt;/span&gt;)  ![&lt;span class=&#34;nt&#34;&gt;Photo by Luca Bravo on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;luca-bravo-alS7ewQ41M8-unsplash.jpg&lt;/span&gt;) 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;![&lt;span class=&#34;nt&#34;&gt;Photo by Helena Hertz on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;helena-hertz-wWZzXlDpMog-unsplash.jpg&lt;/span&gt;)  ![&lt;span class=&#34;nt&#34;&gt;Photo by Hudai Gayiran on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;相册语法来自 &lt;a class=&#34;link&#34; href=&#34;https://typlog.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Typlog&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         
