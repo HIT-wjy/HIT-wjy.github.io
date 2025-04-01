@@ -260,18 +260,25 @@
         <div class="widget--toc">
             <nav id="TableOfContents">
   <ol>
-    <li><a href="#hugo">Hugo</a></li>
-    <li><a href="#git">git</a></li>
-  </ol>
-
-  <ol>
-    <li><a href="#静态部署">静态部署</a></li>
-  </ol>
-
-  <ol>
-    <li><a href="#新建仓库">新建仓库</a></li>
-    <li><a href="#获取token">获取Token</a></li>
-    <li><a href="#开始部署">开始部署</a></li>
+    <li><a href="#环境准备">环境准备</a>
+      <ol>
+        <li><a href="#hugo">Hugo</a></li>
+        <li><a href="#git">git</a></li>
+      </ol>
+    </li>
+    <li><a href="#部署在github上">部署在github上</a>
+      <ol>
+        <li><a href="#静态部署">静态部署</a></li>
+      </ol>
+    </li>
+    <li><a href="#通过git-action实现自动部署">通过git action实现自动部署</a>
+      <ol>
+        <li><a href="#新建仓库">新建仓库</a></li>
+        <li><a href="#获取token">获取Token</a></li>
+        <li><a href="#开始部署">开始部署</a></li>
+      </ol>
+    </li>
+    <li><a href="#写博客">写博客</a></li>
   </ol>
 </nav>
         </div>
@@ -619,6 +626,42 @@
 </li>
 <li>
 <p>将这些push上去就会自动部署了</p>
+</li>
+</ul>
+<h1 id="写博客">写博客
+</h1><ul>
+<li>
+<p>要在content/post中新建文件夹，并在其中书写Markdown文件（最好命名为index.md)，在头部书写一下内容：</p>
+<ul>
+<li>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">title : &#39;标题&#39;
+</span></span><span class="line"><span class="cl">#副标题description: 副标题
+</span></span><span class="line"><span class="cl">date : 日期
+</span></span><span class="line"><span class="cl">draft : true
+</span></span><span class="line"><span class="cl">image : 封面图片
+</span></span><span class="line"><span class="cl">categories:
+</span></span><span class="line"><span class="cl">    - 类别
+</span></span></code></pre></td></tr></table>
+</div>
+</div></li>
+<li>
+<p>一定要用&mdash;封装起来</p>
+</li>
+<li>
+<p>图片的引用直接使用文件夹中的图片名字进行相对路径直接引用（这话也不知道说的对不对）</p>
+</li>
+</ul>
 </li>
 </ul>
 
